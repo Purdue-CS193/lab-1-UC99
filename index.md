@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Uday's first Cs193 lab
 Uday's first Cs193 Lab
 Cs-193 is
 -Fun
